@@ -1,5 +1,5 @@
 username: bbcsky
-baseurl: /bbcsky.github.io
+baseurl: 
 markdown: redcarpet
 safe: false
 pygments: true
