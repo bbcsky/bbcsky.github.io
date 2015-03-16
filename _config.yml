@@ -3,4 +3,6 @@ baseurl: /
 markdown: redcarpet
 safe: false
 pygments: true
+excerpt_separator: "\n\n\n"
+paginate: 5
 title: bbcsky
