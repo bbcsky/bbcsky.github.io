@@ -5,7 +5,7 @@ tags: php,excel
 ---
 
 
-```java
+```php
 class Pexcel{
  
  public function __construct() {
