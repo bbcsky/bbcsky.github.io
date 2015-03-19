@@ -1,5 +1,8 @@
-
-### php生成PDF的类mPDF
+---
+layout: default
+title: php生成PDF的类mPDF
+tags: php,pdf
+---
 
 由于公司业务的需要,最近需要把html静态文件生成pdf,在网上找了很多类文件来实现,效果都不是很好.最先用的是tcpdf这个类特别的慢,而且当前版本有一个很让人头疼的问题—css中的背景图片无法获取到,找了很多资料都无法解决.最后发现mpdf可能实现该功能,而且效率也比tcpdf快.
 
